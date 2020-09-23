@@ -51,8 +51,8 @@ h2.liv{
 
 
 .hero-text button {
-  border: none;
-  outline: 0;
+  border-radius: 10px;
+  outline: none;
   display: inline-block;
   padding: 10px 25px;
   color: black;
